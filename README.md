@@ -2,13 +2,20 @@
 
 A easy to use battery show widget.
 
-## Getting Started
+![The example app running in iOS](https://github.com/PreSwift/zyh_battery/blob/main/doc/ezgif-2-0643cf255401.gif)
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+[Feedback welcome](https://github.com/PreSwift/zyh_battery/issues) and
+[Pull Requests](https://github.com/PreSwift/zyh_battery/pulls) are most welcome!
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Example
+
+```
+import 'package:zyh_battery/zyh_battery.dart';
+
+ZYHBatteryView(
+    width: 22,
+    height: 9,
+    electricQuantity: 0.8,
+    isCharging: true,
+);
+```

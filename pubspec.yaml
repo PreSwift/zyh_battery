@@ -1,8 +1,8 @@
 name: zyh_battery
 description: A easy to use battery show widget.
 version: 0.0.1
-author:
-homepage:
+author: 周远鸿
+homepage: https://github.com/PreSwift/zyh_battery
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

@@ -2,7 +2,7 @@
 
 A easy to use battery show widget.
 
-![The example app running in iOS](https://github.com/PreSwift/zyh_battery/blob/main/doc/ezgif-2-0643cf255401.gif)
+![The example app running in iOS](https://github.com/PreSwift/zyh_battery/blob/main/doc/ezgif-3-9254407092c9.png)
 
 [Feedback welcome](https://github.com/PreSwift/zyh_battery/issues) and
 [Pull Requests](https://github.com/PreSwift/zyh_battery/pulls) are most welcome!
